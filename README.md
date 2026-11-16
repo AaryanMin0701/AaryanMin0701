@@ -32,13 +32,9 @@
   <tr>
     <td align="center" width="280">
       <h3>Project 01</h3>
-      <p>Coming Soon</p>
-      <p>My first independent build.</p>
     </td>
     <td align="center" width="280">
       <h3>Project 02</h3>
-      <p>Coming Soon</p>
-      <p>Another project in the making.</p>
     </td>
   </tr>
 </table>
